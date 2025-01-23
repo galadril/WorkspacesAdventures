@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#news-container {
+    margin: 20px auto;
+    width: 80%;
+    max-width: 800px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.news-item {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+    .news-item:last-child {
+        border-bottom: none;
+    }
