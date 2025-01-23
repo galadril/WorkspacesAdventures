@@ -8,6 +8,8 @@ With the help of **GitHub Copilot Workspace**, you will:
 - Write tests to ensure long-term stability.
 - Discover hidden Easter eggs and unlock the secrets of Codetropolis!
 
+[![Codespace](https://img.shields.io/static/v1?style=for-the-badge&label=Enter+Adventure+Arena&message=Open&color=brightgreen&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&skip_quickstart=true)
+
 ---
 
 ## 🗺️ Repository Structure
