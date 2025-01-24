@@ -30,23 +30,27 @@ CopilotAdventures-Workspace/
 
 ## 🚀 Getting Started
 
+Start by making a fork of this repo, so that you can continue on your own fork
+End my creating a PR from your form to submit the solution!
+
+On your fork, this would be the workflow
+
 1.  **Create an issue for your mission**:
-    
     -   🧭 Go to the **Issues** tab in the repository.
     -   📝 Click **New Issue** and select a template (e.g., bug fixing, feature request, etc.).
+
 2.  **Start a workspace from the issue**:
-    
     -   🛠️ After creating the issue, **start a GitHub Workspace** from the issue page.
     -   This sets up a dev environment based on the task at hand.
+
 3.  **Use GitHub Workspace to tackle the mission**:
-    
     -   🔍 Explore the project files and understand the issue.
     -   ✍️ GitHub Copilot will assist you in writing code and implementing solutions.
+
 4.  **Test your changes in GitHub Codespaces**:
-    
     -   🧑‍💻 Switch to **GitHub Codespaces** to run, debug, and test your code in real-time.
+
 5.  **Submit your solution**:
-    
     -   ✅ Once your changes are ready, push them to the repository.
     -   Submit a pull request for review, and mark the issue as resolved.
 
