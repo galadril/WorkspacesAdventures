@@ -12,7 +12,7 @@ The Codetropolis newsfeed needs pagination! Currently, all news stories are disp
 
 ---
 
-## Known Issue
+## Known Issues
 
 - 📄 **No Pagination**: The current newsfeed shows all news stories at once, making it hard to browse.
 
@@ -61,4 +61,8 @@ The Codetropolis newsfeed needs pagination! Currently, all news stories are disp
 
 ---
 
-Happy coding, and let’s make the Codetropolis newsfeed more user-friendly!
+Happy coding, and let’s make the Codetropolis newsfeed more user-friendly! 
+
+---
+
+This version cleans up a bit of the formatting and makes sure all information is consistent. Let me know if you need further adjustments!
