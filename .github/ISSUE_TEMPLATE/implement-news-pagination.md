@@ -1,5 +1,5 @@
 ---
-name: "Mission 2a: Implement Pagination for Newsfeed"
+name: "Mission 2b: Implement Pagination for Newsfeed"
 about: Add pagination to Codetropolis' newsfeed so users can browse news in pages.
 title: "🔧 Implement Pagination for Newsfeed"
 labels: ["bug", "enhancement"]
