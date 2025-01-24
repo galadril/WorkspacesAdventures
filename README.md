@@ -47,7 +47,7 @@ On your fork, this would be the workflow
     -   ✍️ GitHub Copilot will assist you in writing code and implementing solutions.
 
 4.  **Test your changes in GitHub Codespaces**:
-    -   🧑‍💻 Switch to **GitHub Codespaces** to run, debug, and test your code in real-time.
+    -   🧑‍💻 Switch to **GitHub Codespaces** to run, debug, and test your code in real-time.  
 [![Codespace](https://img.shields.io/static/v1?style=for-the-badge&label=Test+In+Codespace&message=Open&color=brightgreen&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&skip_quickstart=true)
 
 5.  **Submit your solution**:
