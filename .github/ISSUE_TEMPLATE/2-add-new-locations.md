@@ -1,11 +1,9 @@
 ---
-
-**name**: "Mission 2a: Add New Locations to Codetropolis Map"  
-**about**: "Expand Codetropolis's map by adding important landmarks."  
-**title**: "📍 Expand Codetropolis Map with New Landmarks"  
-**labels**: ["enhancement", "feature"]  
-**assignees**: ""  
-
+name: "Mission 2a: Add New Locations to Codetropolis Map"  
+about: "Expand Codetropolis's map by adding important landmarks."  
+title: "📍 Expand Codetropolis Map with New Landmarks"  
+labels: ["bug", "enhancement"]
+assignees: ""
 ---
 
 # 📍 Expand Codetropolis Map with New Landmarks  
