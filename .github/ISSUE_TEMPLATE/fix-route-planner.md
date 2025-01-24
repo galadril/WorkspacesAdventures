@@ -1,5 +1,5 @@
 ---
-name: "🛠️ Fix Route Planner"
+name: "Fix Route Planner"
 about: "Fix and complete the route planner functionality."
 title: "🔧 Fix Route Planner"
 labels: ["bug", "enhancement"]
