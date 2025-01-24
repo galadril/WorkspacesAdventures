@@ -1,4 +1,4 @@
-﻿# Copilot Adventures: The Workspace Chronicles 🏙️
+﻿# Workspaces Adventures: The Workspace Chronicles 🏙️
 
 ![Image](https://github.com/user-attachments/assets/93d417a9-0fc3-4e25-b7c2-249918413449)
 
