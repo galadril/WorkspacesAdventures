@@ -20,10 +20,3 @@ Provide details about the locations you plan to add and how they fit into the ci
 - Add **"The Tower"** at coordinates `(40.7158, -74.0069)`.
 
 ---
-
-### What challenges do you anticipate?
-Mention any potential difficulties you foresee when adding new locations.
-
-**Example**:  
-- Ensuring that all new locations are correctly placed on the map.
-- Managing data consistency (e.g., ensuring correct format for coordinates).
