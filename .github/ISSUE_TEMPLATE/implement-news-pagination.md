@@ -6,6 +6,7 @@ labels: ["bug", "enhancement"]
 assignees: ""
 ---
 
+
 # 🛠️ Implement Pagination for Newsfeed in Codetropolis
 
 The Codetropolis newsfeed needs pagination! Currently, all news stories are displayed at once, which is overwhelming. Your mission is to implement pagination so users can easily navigate through news stories.
