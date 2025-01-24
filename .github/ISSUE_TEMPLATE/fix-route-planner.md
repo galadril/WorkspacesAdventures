@@ -1,5 +1,5 @@
 ---
-name: "Fix Route Planner"
+name: "Mission 2b: Fix Route Planner"
 about: "Fix and complete the route planner functionality."
 title: "🔧 Fix Route Planner"
 labels: ["bug", "enhancement"]
