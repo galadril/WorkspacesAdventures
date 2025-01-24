@@ -1,6 +1,5 @@
-// news.js
-
 const newsContainer = document.getElementById("news-container");
+const API_HOST = "/api"; // Relative path to API
 
 function renderNews(news) {
     newsContainer.innerHTML = ""; // Clear existing news
@@ -12,10 +11,9 @@ function renderNews(news) {
     });
 }
 
-// Mock API call
 async function fetchNews() {
     try {
-        const response = await fetch("/api/news");
+        const response = await fetch(`${API_HOST}/news`); // Use relative path
         const data = await response.json();
         renderNews(data);
     } catch (error) {
@@ -23,5 +21,4 @@ async function fetchNews() {
     }
 }
 
-// TODO: Add pagination logic here
 document.addEventListener("DOMContentLoaded", fetchNews);

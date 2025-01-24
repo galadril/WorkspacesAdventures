@@ -1,23 +1,28 @@
-﻿name: 🗺️ Fix Route Planner
-description: Debug and enhance the route planning system.
-title: "🗺️ Route Planner Bug Fix"
-labels: enhancement, bug
-body:
-  - type: markdown
-    attributes:
-      value: |
-        ### Improve Codetropolis Navigation System
+﻿---
+name: "🛠️ Fix Route Planner"
+description: "Fix and complete the route planner functionality."
+title: "🛠️ Fix Route Planner"
+labels: ["bug", "enhancement"]
+---
 
-        Citizens are lost without proper route planning! Fix the geolocation and implement distance calculations in the `plan_route` function.
+### Fix the Route Planner
 
-        ---
-  - type: textarea
-    attributes:
-      label: Describe the issue.
-      description: Provide details about the missing or incorrect functionality in the route planner.
-      placeholder: "Example: `get_location` returns None instead of a proper error..."
-  - type: textarea
-    attributes:
-      label: How do you plan to implement the fix?
-      description: Share your approach to resolving the issues.
-      placeholder: "Example: Implement the Haversine formula for distance calculations..."
+The route planner between two locations is currently incomplete and does not calculate distances. Your task is to fix and complete the functionality.
+
+---
+
+### Describe the task.
+Provide details about how you plan to complete the route planner.
+
+**Example**:  
+- Ensure that the planner uses the correct coordinates for both start and end locations.
+- Implement a method to calculate the distance between two points (e.g., using the Haversine formula).
+
+---
+
+### What challenges do you anticipate?
+Mention any potential difficulties you foresee.
+
+**Example**:  
+- Calculating accurate distances between two sets of coordinates.
+- Ensuring the route planner correctly handles edge cases (e.g., invalid locations).

@@ -1,23 +1,28 @@
-﻿name: 🏙️ Add New Locations
-description: Expand the map data with new landmarks.
-title: "🏙️ Add New Landmarks to the Map"
-labels: enhancement, good first issue
-body:
-  - type: markdown
-    attributes:
-      value: |
-        ### Expand Codetropolis' Map Data
+﻿---
+name: "📍 Add New Locations to Map"
+description: "Add new locations to the map data for Codetropolis."
+title: "📍 Add New Locations"
+labels: ["enhancement"]
+---
 
-        The citizens of Codetropolis need more landmarks! Add new locations to the map to improve navigation and accessibility.
+### Add New Locations to Codetropolis Map
 
-        ---
-  - type: textarea
-    attributes:
-      label: Which landmarks will you add?
-      description: Provide a list of new landmarks and their descriptions.
-      placeholder: "Example: Atlantis: (Random underwater location)"
-  - type: textarea
-    attributes:
-      label: Why are these locations important?
-      description: Explain how these landmarks will enhance the navigation system.
-      placeholder: "Example: These landmarks are popular tourist attractions..."
+The map of Codetropolis is missing some important landmarks. Your task is to add new locations to the `MAP_DATA` so the citizens can find more places!
+
+---
+
+### Describe the task.
+Provide details about the locations you plan to add and how they fit into the city's landscape.
+
+**Example**:  
+- Add **"Codetropolis Museum"** at coordinates `(40.7148, -74.0059)`.
+- Add **"The Tower"** at coordinates `(40.7158, -74.0069)`.
+
+---
+
+### What challenges do you anticipate?
+Mention any potential difficulties you foresee when adding new locations.
+
+**Example**:  
+- Ensuring that all new locations are correctly placed on the map.
+- Managing data consistency (e.g., ensuring correct format for coordinates).

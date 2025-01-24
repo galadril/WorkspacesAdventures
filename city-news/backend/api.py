@@ -1,10 +1,13 @@
-# api.py
-
-from flask import Flask, jsonify
+from flask import Flask, render_template, jsonify
+from flask_cors import CORS
 from newsfeed import fetch_news, format_news
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='static', template_folder='templates')
 
+# Enable CORS for your API
+CORS(app, resources={r"/api/*": {"origins": "*"}})
+
+# Serve the news API
 @app.route("/api/news", methods=["GET"])
 def get_news():
     """
@@ -17,6 +20,10 @@ def get_news():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
+# Serve the main page
+@app.route("/")
+def index():
+    return render_template("index.html")
 
 if __name__ == "__main__":
-    app.run(debug=True, port=5000)
+    app.run(debug=True, host="0.0.0.0", port=5000)
