@@ -5,11 +5,9 @@
 Welcome to **Codetropolis**, the city powered entirely by code! But all is not well. The systems are breaking down, and chaos is sweeping across the city. As one of the elite "Bugbusters," your mission is to restore peace and stability, one fix at a time.
 
 With this workshop, you’ll:
-
 -   🐞 **Debug broken systems**.
 -   🛠️ **Implement new features** to improve the city.
 -   🧪 **Write tests** to ensure long-term stability.
--   🎉 **Discover Easter eggs** and unlock the secrets of Codetropolis!
 
 
 ----------
@@ -75,7 +73,7 @@ Fix the duplicate newsfeed issue and paginate stories for a smoother reading exp
 Restore the city map and add route suggestions to help citizens find their way.  
 ➡️ [Mission Details](https://github.com/galadril/WorkspacesAdventures/blob/main/city-planning/missing_maps.md)
 
-### 🎉 Mission 4: Easter Egg Hunt
+### 🎉 Bonus Mission: Add Easter Egg
 
 Add a hidden surprise for other developers to discover.  (see bonus section)  
 ➡️ [Mission Details](https://github.com/galadril/WorkspacesAdventures/blob/main/city-planning/missing_maps.md)
