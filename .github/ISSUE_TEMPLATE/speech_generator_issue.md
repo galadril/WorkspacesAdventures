@@ -1,5 +1,5 @@
 ---
-name: "Fix Mayor's Speech Generator"
+name: "Mission 1: Fix The Mayor’s Broken Speech"
 about: Debug and enhance the speech generator for Codetropolis.
 title: "🔧 Fix Mayor's Speech Generator"
 labels: ["bug", "enhancement"]
