@@ -63,15 +63,16 @@ Ready to restore order to Codetropolis? Choose from these exciting challenges:
 Fix the annual speech generator and update city policies.  
 ➡️ [Mission Details](https://github.com/galadril/WorkspacesAdventures/blob/main/mayor-office/broken_system.md)
 
-### 📰 Mission 2: News Gone Wild
+### 🗺️ Mission 2: Missing Maps
+
+Restore the city map and add route suggestions to help citizens find their way.  
+➡️ [Mission Details](https://github.com/galadril/WorkspacesAdventures/blob/main/city-planning/missing_maps.md)
+
+### 📰 Mission 3: News Gone Wild
 
 Fix the duplicate newsfeed issue and paginate stories for a smoother reading experience.  
 ➡️ [Mission Details](https://github.com/galadril/WorkspacesAdventures/blob/main/city-news/news-pagination.md)
 
-### 🗺️ Mission 3: Missing Maps
-
-Restore the city map and add route suggestions to help citizens find their way.  
-➡️ [Mission Details](https://github.com/galadril/WorkspacesAdventures/blob/main/city-planning/missing_maps.md)
 
 ### 🎉 Bonus Mission: Add Easter Egg
 
