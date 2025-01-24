@@ -1,29 +1,37 @@
 ---
-name: "Mission 2b: Fix Route Planner"
-about: "Fix and complete the route planner functionality."
-title: "🔧 Fix Route Planner"
+name: "Mission 2b: Fix Route Planner"  
+about: "Restore and enhance the route planner functionality for Codetropolis navigation."  
+title: "🔧 Fix and Complete the Route Planner"  
 labels: ["bug", "enhancement"]
 assignees: ""
 ---
 
-### Fix the Route Planner
+# 🔧 Fix and Complete the Codetropolis Route Planner  
 
-The route planner between two locations is currently incomplete and does not calculate distances. Your task is to fix and complete the functionality.
-
----
-
-### Describe the task.
-Provide details about how you plan to complete the route planner.
-
-**Example**:  
-- Ensure that the planner uses the correct coordinates for both start and end locations.
-- Implement a method to calculate the distance between two points (e.g., using the Haversine formula).
+The citizens of Codetropolis are lost—literally! The city’s navigation system is down, leaving everyone unable to find their way. Your mission is to restore order by fixing and completing the route planner functionality.  
 
 ---
 
-### What challenges do you anticipate?
-Mention any potential difficulties you foresee.
+## 🗺️ Mission Objectives  
 
-**Example**:  
-- Calculating accurate distances between two sets of coordinates.
-- Ensuring the route planner correctly handles edge cases (e.g., invalid locations).
+1. **Debug the `get_location` Function**:  
+   - Ensure the function returns accurate coordinates for valid locations.  
+   - Add clear error messages for invalid or missing locations.  
+
+2. **Complete the `plan_route` Function**:  
+   - Implement a method to calculate the distance between two locations.  
+   - Hint: Use the **Haversine formula** for accurate distance calculations.  
+
+---
+
+## 🛠️ Known Issues  
+
+- **Missing Location Lookup**: Some locations are not returning proper coordinates.  
+- **Broken Route Planner**: The route planning function is incomplete and doesn’t calculate distances.  
+
+---
+
+## 💡 Implementation Example  
+
+- **Debug `get_location`**: Return coordinates like `(40.7148, -74.0059)` or a meaningful error for missing locations.  
+- **Plan Route**: Use the Haversine formula to calculate the distance in kilometers or miles.  

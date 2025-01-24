@@ -1,5 +1,5 @@
 ---
-name: "Mission 3b: Fix Duplicate Newsfeed"
+name: "Mission 3a: Fix Duplicate Newsfeed"
 about: Debug and fix the duplicate newsfeed issue in Codetropolis.
 title: "🔧 Fix Duplicate Newsfeed"
 labels: ["bug", "enhancement"]
@@ -36,21 +36,3 @@ Codetropolis’ newsfeed is malfunctioning! News stories are being duplicated in
 
 - Carefully examine the logic in the `fetch_news` function, and check if there's any intentional duplication of news.
 - Test the newsfeed to ensure no duplicates appear after your fix.
-
----
-
-### Checklist
-
-- [ ] Identified and fixed the bug causing duplicate news entries.
-- [ ] Tested the newsfeed to ensure all stories are unique.
-- [ ] (Optional) Added comments to clarify code logic.
-
----
-
-### 🔗 Resources
-
-- [Python List Handling](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
-
----
-
-Happy coding, and let's clean up Codetropolis' newsfeed for the citizens!
