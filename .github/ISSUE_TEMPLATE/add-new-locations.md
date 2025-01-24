@@ -1,6 +1,6 @@
 ---
 name: "Add New Locations to Map"
-description: "Add new locations to the map data for Codetropolis."
+about: "Add new locations to the map data for Codetropolis."
 title: "📍 Add New Locations"
 labels: ["bug", "enhancement"]
 assignees: ""
