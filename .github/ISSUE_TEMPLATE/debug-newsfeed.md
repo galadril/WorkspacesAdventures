@@ -1,8 +1,8 @@
-﻿---
+---
 name: "Fix Duplicate Newsfeed"
 about: Debug and fix the duplicate newsfeed issue in Codetropolis.
 title: "🔧 Fix Duplicate Newsfeed"
-labels: ["bug"]
+labels: ["bug", "enhancement"]
 assignees: ""
 ---
 
