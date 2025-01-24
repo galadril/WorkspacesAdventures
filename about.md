@@ -23,7 +23,7 @@ We broke the **Codetropolis** workshop into several missions, each with its own 
 
 1.  **The Mayor’s Broken Speech 🗣️**
     -   The mayor’s speech generator had broken, causing delays in public announcements. Participants had to fix the code to restore order and update city policies.
-    - 
+    
 2.  **News Gone Wild 📰**
     -   The city’s newsfeed was overflowing with duplicate stories, and pagination was broken. Developers had to fix the duplicate issue and implement pagination for a smoother news experience.
     
