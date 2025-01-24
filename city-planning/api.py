@@ -1,7 +1,5 @@
-# api.py
-
 from flask import Flask, request, jsonify
-from maps import get_location, plan_route
+from maps import get_location, plan_route, get_all_locations
 
 app = Flask(__name__)
 
@@ -18,6 +16,15 @@ def location_lookup():
     if coords:
         return jsonify({"name": location_name, "coordinates": coords})
     return jsonify({"error": "Location not found"}), 404
+
+
+@app.route("/api/locations", methods=["GET"])
+def all_locations():
+    """
+    Get a list of all available locations.
+    """
+    locations = get_all_locations()
+    return jsonify({"locations": locations})
 
 
 @app.route("/api/route", methods=["GET"])
