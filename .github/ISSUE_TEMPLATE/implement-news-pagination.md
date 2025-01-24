@@ -1,8 +1,8 @@
-﻿---
+---
 name: "Implement Pagination for Newsfeed"
 about: Add pagination to Codetropolis' newsfeed so users can browse news in pages.
 title: "🔧 Implement Pagination for Newsfeed"
-labels: ["enhancement"]
+labels: ["bug", "enhancement"]
 assignees: ""
 ---
 
