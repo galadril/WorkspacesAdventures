@@ -1,5 +1,5 @@
 ---
-name: "Add New Locations to Map"
+name: "Mission 2a: Add New Locations to Map"
 about: "Add new locations to the map data for Codetropolis."
 title: "📍 Add New Locations"
 labels: ["bug", "enhancement"]
