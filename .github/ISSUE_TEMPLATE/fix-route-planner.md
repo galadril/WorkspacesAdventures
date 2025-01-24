@@ -1,6 +1,6 @@
 ---
 name: "🛠️ Fix Route Planner"
-description: "Fix and complete the route planner functionality."
+about: "Fix and complete the route planner functionality."
 title: "🔧 Fix Route Planner"
 labels: ["bug", "enhancement"]
 assignees: ""
