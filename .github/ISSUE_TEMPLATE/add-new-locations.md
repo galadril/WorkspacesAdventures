@@ -1,8 +1,9 @@
-﻿---
-name: "📍 Add New Locations to Map"
+---
+name: "Add New Locations to Map"
 description: "Add new locations to the map data for Codetropolis."
 title: "📍 Add New Locations"
-labels: ["enhancement"]
+labels: ["bug", "enhancement"]
+assignees: ""
 ---
 
 ### Add New Locations to Codetropolis Map
