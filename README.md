@@ -1,4 +1,4 @@
-﻿# Workspaces Adventures: The Workspace Chronicles 🏙️
+﻿# Workspace Adventures: The Codetropolis Chronicles 🏙️
 
 ![Image](https://github.com/user-attachments/assets/93d417a9-0fc3-4e25-b7c2-249918413449)
 
