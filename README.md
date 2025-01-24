@@ -73,7 +73,7 @@ Restore the city map and add route suggestions to help citizens find their way.
 
 ### 🎉 Mission 4: Easter Egg Hunt
 
-Add a hidden surprise for other developers to discover.  (see bonus section)
+Add a hidden surprise for other developers to discover.  (see bonus section)  
 ➡️ [Mission Details](https://github.com/galadril/WorkspacesAdventures/blob/main/city-planning/missing_maps.md)
 
 Each mission has its own GitHub issue, so head to the **Issues** tab to get started!
