@@ -1,6 +1,6 @@
 ﻿# Copilot Adventures: The Workspace Chronicles 🏙️
 
- ![Image](https://github.com/user-attachments/assets/226c7d0a-2297-47f2-83ad-f24615e8e9fc)
+![Image](https://github.com/user-attachments/assets/93d417a9-0fc3-4e25-b7c2-249918413449)
 
 Welcome to **Codetropolis**, the city powered entirely by code! But all is not well. The systems are breaking down, and chaos is sweeping across the city. As one of the elite "Bugbusters," your mission is to restore peace and stability, one fix at a time.
 
