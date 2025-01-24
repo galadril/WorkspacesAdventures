@@ -18,12 +18,3 @@ Provide details about how you plan to complete the route planner.
 **Example**:  
 - Ensure that the planner uses the correct coordinates for both start and end locations.
 - Implement a method to calculate the distance between two points (e.g., using the Haversine formula).
-
----
-
-### What challenges do you anticipate?
-Mention any potential difficulties you foresee.
-
-**Example**:  
-- Calculating accurate distances between two sets of coordinates.
-- Ensuring the route planner correctly handles edge cases (e.g., invalid locations).
