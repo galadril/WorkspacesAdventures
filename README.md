@@ -27,11 +27,13 @@ WorkspacesAdventures/
 
 ## 🚀 Getting Started
 
-Start by making a fork of this repo, so that you can continue on your own fork
-End my creating a PR from your form to submit the solution!
+Start by making a fork of this repo, so that you can continue on your own fork.
+Create a PR from your fork to submit the solution!
 
-On your fork, this would be the workflow
+Start familiarizing yourself with the repository's code using Codespaces:  
+[![Codespace](https://img.shields.io/static/v1?style=for-the-badge&label=Test+In+Codespace&message=Open&color=brightgreen&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&skip_quickstart=true)  
 
+On your fork, this would be the workflow:
 1.  **Create an issue for your mission**:
     -   🧭 Go to the **Issues** tab in the repository.
     -   📝 Click **New Issue** and select a template (e.g., bug fixing, feature request, etc.).
