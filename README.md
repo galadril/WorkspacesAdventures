@@ -4,7 +4,7 @@
 
 Welcome to **Codetropolis**, the city powered entirely by code! But all is not well. The systems are breaking down, and chaos is sweeping across the city. As one of the elite "Bugbusters," your mission is to restore peace and stability, one fix at a time.
 
-With **GitHub Copilot Workspace**, you’ll:
+With this workshop, you’ll:
 
 -   🐞 **Debug broken systems**.
 -   🛠️ **Implement new features** to improve the city.
@@ -19,7 +19,7 @@ With **GitHub Copilot Workspace**, you’ll:
 Here's a quick look at Codetropolis:
 
 ```plaintext
-CopilotAdventures-Workspace/
+WorkspacesAdventures/
 ├── mayor-office/       # User management & policies
 ├── city-news/          # Newsfeed system
 ├── city-planning/      # Maps & geolocation
