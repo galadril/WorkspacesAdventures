@@ -28,32 +28,14 @@ WorkspacesAdventures/
 ## 🚀 Getting Started
 
 Start by making a fork of this repo, so that you can continue on your own fork.
-Create a PR from your fork to submit the solution!
+-   Fork this repo
+-   Go to the Settings page of your fork.
+-   Click 'General' tab on the left
+-   Scroll down to the Features subsection
+-   Tick the Issues checkbox
 
 Start familiarizing yourself with the repository's code using Codespaces:  
 [![Codespace](https://img.shields.io/static/v1?style=for-the-badge&label=Codespace&message=Open&color=brightgreen&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&skip_quickstart=true)  
-
-On your fork, this would be the workflow:
-1.  **Create an issue for your mission**:
-    -   🧭 Go to the **Issues** tab in the repository.
-    -   📝 Click **New Issue** and select a template (e.g., bug fixing, feature request, etc.).
-
-2.  **Start a workspace from the issue**:
-    -   🛠️ After creating the issue, **start a GitHub Workspace** from the issue page.
-    -   This sets up a dev environment based on the task at hand.
-
-3.  **Use GitHub Workspace to tackle the mission**:
-    -   🔍 Explore the project files and understand the issue.
-    -   ✍️ GitHub Copilot will assist you in writing code and implementing solutions.
-
-4.  **Test your changes in GitHub Codespaces**:
-    -   🧑‍💻 Switch to **GitHub Codespaces** to run, debug, and test your code in real-time.
-
-[![Codespace](https://img.shields.io/static/v1?style=for-the-badge&label=Codespace&message=Test&color=brightgreen&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&skip_quickstart=true)
-
-5.  **Submit your solution**:
-    -   ✅ Once your changes are ready, push them to the repository.
-    -   Submit a pull request for review, and mark the issue as resolved.
 
 ----------
 
@@ -83,6 +65,31 @@ Add a hidden surprise for other developers to discover.  (see bonus section)
 ➡️ [Mission Details](https://github.com/galadril/WorkspacesAdventures/blob/main/city-planning/missing_maps.md)
 
 Each mission has its own GitHub issue, so head to the **Issues** tab to get started!
+
+----------
+
+## Working on Missions
+On your fork, this would be the workflow:
+1.  **Create an issue for your mission**:
+    -   🧭 Go to the **Issues** tab in the repository.
+    -   📝 Click **New Issue** and select a template (e.g., bug fixing, feature request, etc.).
+
+2.  **Start a workspace from the issue**:
+    -   🛠️ After creating the issue, **start a GitHub Workspace** from the issue page.
+    -   This sets up a dev environment based on the task at hand.
+
+3.  **Use GitHub Workspace to tackle the mission**:
+    -   🔍 Explore the project files and understand the issue.
+    -   ✍️ GitHub Copilot will assist you in writing code and implementing solutions.
+
+4.  **Test your changes in GitHub Codespaces**:
+    -   🧑‍💻 Switch to **GitHub Codespaces** to run, debug, and test your code in real-time.
+
+[![Codespace](https://img.shields.io/static/v1?style=for-the-badge&label=Codespace&message=Test&color=brightgreen&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&skip_quickstart=true)
+
+5.  **Submit your solution**:
+    -   ✅ Once your changes are ready, push them to the repository.
+    -   Submit a pull request for review, and mark the issue as resolved.
 
 ----------
 
