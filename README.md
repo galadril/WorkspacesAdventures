@@ -31,7 +31,7 @@ Start by making a fork of this repo, so that you can continue on your own fork.
 Create a PR from your fork to submit the solution!
 
 Start familiarizing yourself with the repository's code using Codespaces:  
-[![Codespace](https://img.shields.io/static/v1?style=for-the-badge&label=Open+In+Codespace&message=Open&color=brightgreen&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&skip_quickstart=true)  
+[![Codespace](https://img.shields.io/static/v1?style=for-the-badge&label=Codespace&message=Open&color=brightgreen&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&skip_quickstart=true)  
 
 On your fork, this would be the workflow:
 1.  **Create an issue for your mission**:
@@ -49,7 +49,7 @@ On your fork, this would be the workflow:
 4.  **Test your changes in GitHub Codespaces**:
     -   🧑‍💻 Switch to **GitHub Codespaces** to run, debug, and test your code in real-time.
 
-[![Codespace](https://img.shields.io/static/v1?style=for-the-badge&label=Test+In+Codespace&message=Open&color=brightgreen&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&skip_quickstart=true)
+[![Codespace](https://img.shields.io/static/v1?style=for-the-badge&label=Codespace&message=Test&color=brightgreen&logo=github)](https://github.com/codespaces/new?hide_repo_select=true&skip_quickstart=true)
 
 5.  **Submit your solution**:
     -   ✅ Once your changes are ready, push them to the repository.
