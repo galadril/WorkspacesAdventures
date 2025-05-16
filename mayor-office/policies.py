@@ -18,17 +18,17 @@ def generate_speech(randomize=False):
     """
     Generate the mayor's speech based on current policies.
     Optionally randomize the order of policies for fun speeches.
-    Simulate random failures to match the broken system described.
+    Handle edge cases such as empty policy list and malformed data.
     """
-    # Randomly break the system (simulate random failure)
-    if random.random() < 0.2:  # 20% chance to break the system
-        raise Exception("Random failure: The system has crashed!")
+    if not POLICIES:
+        return "No policies available to generate the speech."
 
-    randomize_policies()
+    if randomize:
+        randomize_policies()
 
     speech_intro = "Greetings, citizens of Codetropolis! Here are our latest policies to improve our great city:\n"
     try:
-        speech_body = "\n".join([f"- {policy}" for policy in get_policies()])
+        speech_body = "\n".join([f"- {policy}" for policy in get_policies() if isinstance(policy, str)])
         speech_closing = "\nTogether, we can make Codetropolis thrive!"
         return speech_intro + speech_body + speech_closing
     except Exception as e:
@@ -43,7 +43,7 @@ def randomize_policies():
 
 if __name__ == "__main__":
     try:
-        print("\nGenerating a speech with potential failure...\n")
-        print(generate_speech())
+        print("\nGenerating a speech...\n")
+        print(generate_speech(randomize=True))
     except Exception as e:
         print(f"Oops! Something went wrong: {e}")
